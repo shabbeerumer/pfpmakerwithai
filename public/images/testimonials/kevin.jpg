@@ -1,0 +1,14 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.2"/>
+            <stop offset="100%" style="stop-color:#6366f1;stop-opacity:0.1"/>
+        </linearGradient>
+        <clipPath id="circleClip">
+            <circle cx="60" cy="60" r="60"/>
+        </clipPath>
+    </defs>
+    <circle cx="60" cy="60" r="60" fill="url(#avatarGrad)"/>
+    <circle cx="60" cy="45" r="25" fill="#6366f1" opacity="0.2"/>
+    <path d="M20,120 Q60,70 100,120" fill="#6366f1" opacity="0.1"/>
+</svg> 

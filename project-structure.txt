@@ -1,0 +1,25 @@
+pfpmaker-clone/
+├── app/
+│   ├── Http/
+│   │   ├── Controllers/
+│   │   └── Middleware/
+│   ├── Models/
+│   └── Services/
+├── config/
+├── database/
+│   ├── migrations/
+│   └── seeders/
+├── public/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── resources/
+│   ├── views/
+│   │   ├── components/
+│   │   ├── layouts/
+│   │   └── pages/
+│   ├── js/
+│   └── css/
+├── routes/
+├── storage/
+└── tests/ 

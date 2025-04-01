@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="blogGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0077B5;stop-opacity:0.1"/>
+            <stop offset="100%" style="stop-color:#4F46E5;stop-opacity:0.1"/>
+        </linearGradient>
+    </defs>
+    <rect width="400" height="300" fill="url(#blogGrad3)"/>
+    <rect x="100" y="100" width="200" height="100" fill="#0077B5" opacity="0.1" rx="10"/>
+    <circle cx="150" cy="150" r="30" fill="#0077B5" opacity="0.2"/>
+</svg> 
